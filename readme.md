@@ -3,7 +3,7 @@ Collection of great EOS tutorials available online written or compiled by [EOS A
 # EOS Mainnet Launch Related
 
 ### Launch tools
-* [eos-bios from EOS Canada](https://github.com/eoscanada/eos-bios)
+* [eos-bios from EOS Canada](https://github.com/eoscanada/eos-bios) (full validation included)
 * [ghostbusters from HKEOS and EOSRio](https://github.com/HKEOS/Ghostbusters-Testnet)
 
 ### Validation tools
